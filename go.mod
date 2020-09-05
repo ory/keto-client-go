@@ -1,6 +1,6 @@
 module github.com/ory/keto-client-go
 
-go 1.14
+go 1.15
 
 require (
 	github.com/go-openapi/errors v0.19.6
