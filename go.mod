@@ -1,4 +1,4 @@
-module github.com/ory/keto-client-go
+module github.com/ory/keto-client-go/v25
 
 go 1.24.0
 
